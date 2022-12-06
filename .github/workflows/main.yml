@@ -1,0 +1,17 @@
+name: Medium Blog Posts
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: "Update this repo's README with latest my latest posts"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@jimkelly-t"
+          commit_message: ":memo: update medium posts list"
