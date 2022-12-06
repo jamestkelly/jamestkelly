@@ -20,6 +20,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rural Broadband: An Outback Approach](https://jimkelly-t.medium.com/rural-broadband-an-outback-approach-ab9dd2405c31?source=rss-c26893c7b768------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
