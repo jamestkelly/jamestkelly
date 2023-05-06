@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on [is-my-coffee-cold](https://github.com/jamestkelly/is-my-coffee-cold)
 - 🤝 I’m looking for help with [harold](https://github.com/jamestkelly/harold)
 - 👨‍💻 All of my projects are available at [https://jim-t-kelly.web.app/](https://jim-t-kelly.web.app/)
-- 📝 I regularly write articles on [https://medium.com/@jimkelly-t](https://medium.com/@jimkelly-t)
+- 📝 I write articles on [https://medium.com/@jimkelly-t](https://medium.com/@jimkelly-t)
 - 💬 Ask me about **TypeScript, Python, and Data Structures & Algorithms**
 - 📫 How to reach me [jimkelly.t@outlook.com](mailto:jimkelly.t@outlook.com)
 - 📄 Know about my
