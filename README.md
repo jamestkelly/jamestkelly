@@ -26,7 +26,7 @@
 - 🤝 I’m looking for help with [harold](https://github.com/jamestkelly/harold)
 - 👨‍💻 All of my projects are available at [https://jim-t-kelly.web.app/](https://jim-t-kelly.web.app/)
 - 📝 I write articles on [https://medium.com/@jimkelly-t](https://medium.com/@jimkelly-t)
-- 💬 Ask me about **TypeScript, Python, and Data Structures & Algorithms**
+- 💬 Ask me about **TypeScript, Platform Engineering, Golang, and Data Structures & Algorithms**
 - 📫 How to reach me [jimkelly.t@outlook.com](mailto:jimkelly.t@outlook.com)
 - 📄 Know about my
   experiences [https://github.com/jamestkelly/resume/blob/main/main.pdf](https://github.com/jamestkelly/resume/blob/main/main.pdf)
