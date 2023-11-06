@@ -21,8 +21,8 @@
   </p>
 </div>
 
-- 🔭 I’m currently working on [am-i-better-than-you](https://github.com/jamestkelly/am-i-better-than-you)
-- 👯 I’m looking to collaborate on [is-my-coffee-cold](https://github.com/jamestkelly/is-my-coffee-cold)
+- 🔭 I’m currently working on [is-my-coffee-cold](https://github.com/jamestkelly/is-my-coffee-cold)
+- 👯 I’m looking to collaborate on [decider](https://github.com/jamestkelly/decider)
 - 🤝 I’m looking for help with [harold](https://github.com/jamestkelly/harold)
 - 👨‍💻 All of my projects are available at [https://jim-t-kelly.web.app/](https://jim-t-kelly.web.app/)
 - 📝 I write articles on [https://medium.com/@jimkelly-t](https://medium.com/@jimkelly-t)
