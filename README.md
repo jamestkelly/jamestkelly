@@ -14,13 +14,9 @@
           <img src="https://github-profile-trophy.vercel.app/?username=jamestkelly&theme=onedark" alt="jamestkelly" />
       </a> 
   </p>
-  <p align="left"> 
-    <a href="https://twitter.com/jameskellyt" target="blank">
-        <img src="https://img.shields.io/twitter/follow/jameskellyt?logo=twitter&style=for-the-badge" alt="jameskellyt" />
-    </a> 
-  </p>
 </div>
 
+- 🌐 Check out my [personal portfolio website](https://jim-t-kelly.web.app/)!
 - 🔭 I’m currently working on [is-my-coffee-cold](https://github.com/jamestkelly/is-my-coffee-cold)
 - 👯 I’m looking to collaborate on [decider](https://github.com/jamestkelly/decider)
 - 🤝 I’m looking for help with [harold](https://github.com/jamestkelly/harold)
