@@ -2,7 +2,7 @@
     Hi 👋, I'm Jim Kelly
 </h1>
 <h3 align="center">
-    Full-Stack Developer and Platform Engineer
+    Full-Stack Software Engineer
 </h3>
 
 <div align="center">
